@@ -20,4 +20,4 @@ Stwórz proszę konto na GitHubie i skopiuj to repozytorium do siebie (opcja *Fo
 
 Od gotowych rozwiązań ściągniętych z internetu dużo bardziej wolimy inwencję twórczą i inicjatywę własną! To nie znaczy, że w sytuacji kryzysu nie można skorzystać z google albo stack overflow (sami lubimy i często używamy), natomiast proszę bez gotowców! Same opisane powyżej problemy dają dużo możliwości - nie jest to w żadnym stopniu wymagane, natomiast z przyjemnością spojrzymy na wszystko, co wpadnie Ci do głowy (co nie będzie bezpośrednio lub pośrednio opisane w danym zadaniu).
 
-W razie jakichkolwiek wątpliwości, pytań - bardzo proszę o założenie wątku w sekcji *issues*.
+W razie jakichkolwiek wątpliwości, pytań, problemów natury technicznej - bardzo proszę o założenie wątku w sekcji *issues*.
